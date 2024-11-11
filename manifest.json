@@ -1,0 +1,22 @@
+{
+    "name": "UripKu",
+    "short_name": "UK",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "backround_color": "#ffffff",
+    "theme_color": "#000000",
+    "orinetation": "portrait",
+    "description": "Ini Tentang Hidupku",
+    "icons": [
+        {
+            "src": "assets/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
